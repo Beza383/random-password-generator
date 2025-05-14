@@ -2,7 +2,7 @@
 
 A secure and user-friendly password generator that creates strong, random passwords with customizable options.
 ## Demo
-[Live Demo](https://paulmagadi.gihub.io/random-password-generator/)
+[Live Demo](https://paulmagadi.github.io/random-password-generator/)
 
 ---
 #### Password Generate Sucess
